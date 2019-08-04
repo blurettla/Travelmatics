@@ -12,7 +12,9 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning"
         android:fullBackupContent="true">
-        <activity android:name=".InsertActivity">
+        <activity
+            android:name=".DealActivity"
+            android:parentActivityName=".ListActivity">
         </activity>
         <activity android:name=".ListActivity">
             <intent-filter>

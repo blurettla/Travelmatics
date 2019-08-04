@@ -3,5 +3,8 @@
     <string name="hint_price">Deal Price</string>
     <string name="hint_description">Deal Description</string>
     <string name="hint_title">Deal Title</string>
-    <string name="save_menu">Save</string>
+    <string name="save_deal">Save</string>
+    <string name="deal_thumbnail">Deal thumbnail</string>
+    <string name="add_deal_menu_item">Add Deal</string>
+    <string name="delete_deal">Delete Deal</string>
 </resources>
