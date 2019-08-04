@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Travelmatics</string>
+    <string name="hint_price">Deal Price</string>
+    <string name="hint_description">Deal Description</string>
+    <string name="hint_title">Deal Title</string>
+    <string name="save_menu">Save</string>
 </resources>
